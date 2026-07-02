@@ -4,15 +4,15 @@
 - <a href="https://github.com/lulit547/Analyzing-Sales-Data-and-Built-Dashboard-/blob/main/Sales_and_Profit_Dashboard%20%20s.xlsx">Dateset</a>
  
 ## Key findings
-Overall health: $1.93M in sales generated $248K in profit — a 12.9% margin, and roughly 1 in 5 orders (18.6%) loses money, totaling a $123K drag.
+- Overall health: $1.93M in sales generated $248K in profit — a 12.9% margin, and roughly 1 in 5 orders (18.6%) loses money, totaling a $123K drag.
 
 ## 1. Furniture is the weak link.
 Furniture brings in $622K of sales (32% of the business) but only $17.9K profit — a 2.9% margin, far below Technology (17.3%) and Office Supplies (18.0%). It's carrying real volume but barely paying for itself.
 
-##2. Two sub-categories are actively losing money:
+## 2. Two sub-categories are actively losing money:
 
-Tables: -$12.3K profit on $168K sales (-7.4% margin)
-Bookcases: -$2.4K profit on $101K sales (-2.4% margin)
+- Tables: -$12.3K profit on $168K sales (-7.4% margin)
+- Bookcases: -$2.4K profit on $101K sales (-2.4% margin)
 
 Even within "profitable" categories, Binders and Machines each lose over $24K–28K on their money-losing orders specifically, dragging down otherwise-solid categories.
 
@@ -36,3 +36,7 @@ Top 10 customers and California/New York alone account for a disproportionate sh
 4, Double down on what's working — Copiers (36.7% margin) and Paper (43.4% margin) are quietly your best performers relative to size; there may be room to grow them further.
 
 5, Watch customer concentration — consider a loyalty/retention play for your top 10 customers given how much revenue rides on them.
+
+## Dashboard
+<img width="646" height="878" alt="image" src="https://github.com/user-attachments/assets/8d609801-0eec-4889-9cd5-699aa2bf6745" />
+
