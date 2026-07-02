@@ -1,6 +1,7 @@
 # Excel dashboard analyzing $1.9M in sales data — uncovered $123K in hidden losses from underpriced product lines and built a live, formula-driven profitability tracker.
  Analyzed 8,300+ transactions to build a dynamic Excel dashboard and profitability report. Calculated KPIs (total sales, profit, margin, order volume) and broke down performance by category, sub-category, region, and customer using SUMIF-driven formulas no hardcoded values, fully auditable.
- 
+ ## Date used
+ <a href="">Dateset</a>
 ## Key findings
 Overall health: $1.93M in sales generated $248K in profit — a 12.9% margin, and roughly 1 in 5 orders (18.6%) loses money, totaling a $123K drag.
 
